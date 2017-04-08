@@ -3,8 +3,8 @@ A simple test program to run Android Automated test of a Sample app on http://ap
 
 ## APK 
  
-for test app can be found on http://app.testobject.com itself. 
+Application APK can be found on http://app.testobject.com - sample app 
 
-application name Ol Shopping list
+application name:  Ol Shopping list
 
 
